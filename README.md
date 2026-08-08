@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Mohammad</h1>
+<img width="320" height="320" alt="image" src="https://github.com/user-attachments/assets/41747fb3-5390-42a1-897c-8ed3979ef3aa" /><h1 align="center">Hi 👋, I'm Mohammad</h1>
 <h3 align="center">A Full-stack and WebApp Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anonymouspeter&label=Profile%20views&color=0e75b6&style=flat" alt="anonymouspeter" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anonymouspeter" alt="anonymouspeter" /></a> </p>
+<img align="right" width="400" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1658299561613/GRsv3fj9s.gif" alt="anonymousPeter" />
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anonymouspeter" alt="anonymousPeter" /></a> </p>
 
 - 🔭 I’m currently working on **an Industrial ERP**
 
